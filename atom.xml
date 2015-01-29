@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[NSSimacer Wu & Tracy Wang]]></title>
+  <link href="http://talentwwb.github.io/atom.xml" rel="self"/>
+  <link href="http://talentwwb.github.io/"/>
+  <updated>2015-01-29T19:58:35+08:00</updated>
+  <id>http://talentwwb.github.io/</id>
+  <author>
+    <name><![CDATA[NSSimacer Wu, Tracy Wang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[test ii]]></title>
+    <link href="http://talentwwb.github.io/blog/2015/01/29/test-ii/"/>
+    <updated>2015-01-29T11:01:55+08:00</updated>
+    <id>http://talentwwb.github.io/blog/2015/01/29/test-ii</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://talentwwb.github.io/blog/2015/01/29/test/"/>
+    <updated>2015-01-29T10:12:10+08:00</updated>
+    <id>http://talentwwb.github.io/blog/2015/01/29/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
